@@ -169,7 +169,7 @@
         <location filename="../src/qml/firstrun/Tutorial.qml" line="173"/>
         <source>is up here.</source>
         <oldsource>are up here.</oldsource>
-        <translation type="unfinished">在这里上方.</translation>
+        <translation>就在这上方。</translation>
     </message>
     <message id="id-tutorial-applications-title">
         <location filename="../src/qml/firstrun/Tutorial.qml" line="220"/>
@@ -209,27 +209,27 @@
     <message id="id-brightness">
         <location filename="../src/qml/quickpanel/QuickPanel.qml" line="504"/>
         <source>Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>亮度</translation>
     </message>
     <message id="id-volume">
         <location filename="../src/qml/quickpanel/QuickPanel.qml" line="506"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message id="id-power-off">
         <location filename="../src/qml/quickpanel/QuickPanel.qml" line="827"/>
         <source>Powering off in</source>
-        <translation type="unfinished"></translation>
+        <translation>在…后关机</translation>
     </message>
     <message id="id-tap-to-cancel">
         <location filename="../src/qml/quickpanel/QuickPanel.qml" line="548"/>
         <source>Tap to cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>点击取消</translation>
     </message>
     <message id="id-reboot">
         <location filename="../src/qml/quickpanel/QuickPanel.qml" line="844"/>
         <source>Rebooting in</source>
-        <translation type="unfinished"></translation>
+        <translation>将在…后重启</translation>
     </message>
 </context>
 </TS>
